@@ -7,6 +7,8 @@
   <!-- Override with -Dinstall.work.directory=/what/ever -->
   <properties>
      <install.work.directory>/home/aceuser/ace-server</install.work.directory>
+    <MQSI_BASE_FILEPATH>C:\Program Files\IBM\ACE\12.0.5.0</MQSI_BASE_FILEPATH>
+    <ace.version>12.0.5.0</ace.version>
   </properties>
   <modules>
     <module>TeaSharedLibraryJava</module>
